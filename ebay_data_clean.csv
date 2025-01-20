@@ -1,0 +1,425 @@
+Item Number,Brand,Processor,Screen Size (in),Color,Ram Size (GB),SSD Capacity (GB),GPU,Processor Speed (GHz),Type,Resolution Size,Maximum Resolution,Model,OS,Hard Drive Capacity (GB),Storage Type,Condition,Price ($)
+85264981001,Chuwi,Quad Core,14.0,Gray,8.0,1000.0,Intel Iris Plus Graphics 655,3.8,Notebook/Laptop,Large,2160 x 1440,CHUWI CoreBook X,Windows 11 Home,512,SSD,New,303.68
+85264981003,Dell,Intel Core i5,14.0,Black,16.0,500.0,Intel HD Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude E5470,Windows 10 Pro,500,SSD,Used,175.0
+85264981014,Chuwi,Intel Celeron,14.1,Gray,8.0,256.0,Intel UHD Graphics 600,2.8,Notebook/Laptop,Medium,1920 x 1080,CHUWI LapBook Pro,Windows 11 Home,256,SSD,New,151.99
+85264981015,Chuwi,Intel Core i5,14.0,Gray,8.0,512.0,Intel Iris Plus Graphics 655,3.8,Notebook/Laptop,Large,2160 x 1440,CHUWI CoreBook X,Windows 10,512,SSD + HDD,New,243.99
+85264981018,Dell,Intel Celeron,11.0,Black,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,Dell Latitude 3189,Windows 10 Pro,128,SSD,Used,129.99
+85264981019,Acer,Intel Celeron,11.6,Gray,4.0,16.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1366 x 768,Acer Chromebook C731,Chrome OS,16,SSD,Used,39.99
+85264981023,Dell,Intel Core i5,12.5,Black,8.0,256.0,Intel HD Graphics,2.6,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5289,Windows 10,256,SSD,Used,199.99
+85264981028,HP,Intel Core i5,15.6,Silver,32.0,2000.0,Intel Iris Xe Graphics,4.2,Notebook/Laptop,Medium,1920 x 1080,HP 15 Essential,Windows 11 Home,2000,SSD,New,629.0
+85264981030,Dell,Intel Core i5,15.6,Black,16.0,512.0,Intel HD Graphics 620,3.1,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5580,Windows 10 Pro,512,SSD,Very Good,344.99
+85264981031,Chuwi,Quad Core,15.6,Gray,16.0,512.0,Intel UHD Graphics,3.4,Notebook/Laptop,Medium,1920 x 1080,GemiBook Plus,Windows 11 Home,512,SSD,New,241.99
+85264981035,Chuwi,Intel Celeron,14.1,Gray,8.0,256.0,Intel UHD Graphics 600,2.8,Notebook/Laptop,Medium,1920 x 1080,CHUWI LapBook Pro,Windows 11 Home,256,SSD,New,149.99
+85264981040,Chuwi,Intel Celeron,13.5,Gray,12.0,512.0,Intel UHD Graphics,2.8,Notebook/Laptop,Large,2256 x 1504,CHUWI FreeBook,Windows 10 Home,12,SSD,New,269.49
+85264981042,Dell,AMD Ryzen 5,15.6,Black,16.0,512.0,AMD Radeon Graphics,4.5,Notebook/Laptop,Medium,1920 x 1080,Dell Inspiron 15 3535,Windows 11 Home,512,SSD,New,489.0
+85264981048,HP,Intel Celeron,11.6,Multicolor,4.0,16.0,Intel HD Graphics 500,2.4,Notebook/Laptop,Small,1366 x 768,Chromebook 11 G6 EE,Chrome OS,16,eMMC,Very Good,84.99
+85264981050,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,1.6,Chromebook,Small,1366 x 768,Samsung ChromeBook,Chrome OS,16,eMMC,Used,69.99
+85264981052,Dell,Intel Core i7,12.5,Black,8.0,256.0,Intel HD Graphics 520,2.6,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude E7270,Windows 10 Pro,256,SSD,Used,129.95
+85264981056,Dell,Intel Core i5,15.6,Black,8.0,256.0,NVIDIA GeForce GTX 1050 Ti,2.5,Notebook/Laptop,Medium,1920 x 1080,Dell Inspiron 15 7000,Windows 10 Home,0,SSD,Used,199.99
+85264981061,Lenovo,Intel Core i5,15.6,Grey,20.0,1000.0,Intel Iris Xe Graphics,4.2,Notebook/Laptop,Medium,1920 x 1080,Lenovo Ideapad 3i,Windows 11 Home,1000,SSD,New,599.0
+85264981066,HP,Intel Core i5,14.0,Silver,32.0,500.0,Intel UHD Graphics 620,2.6,Notebook/Laptop,Medium,1920 x 1080,Hp Elitlebook G5,Windows 11 Pro,500,SSD,Very Good,289.99
+85264981070,Dell,Intel Core i5,14.0,Black,8.0,256.0,Intel HD Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude Rugged 5414,Windows 10 Pro,256,SSD,Used,200.0
+85264981072,SGIN,Intel Celeron,15.6,Silver,12.0,512.0,AMD Radeon Graphics,2.8,Notebook/Laptop,Large,1920 x 1200,X15,Windows 11 Home,12,SSD,New,225.0
+85264981074,Dell,Intel Core i5,14.0,Gray,16.0,512.0,Intel HD Graphics 630,1.7,Notebook/Laptop,Medium,1920 x 1080,5410,Not Included,512,SSD,Used,229.0
+85264981076,Lenovo,Intel Core i7,14.1,Black,16.0,512.0,Intel HD Graphics 520,2.6,Notebook/Laptop,Large,2560 x 1440,Lenovo ThinkPad X1 Yoga,Windows 10 Pro,512,SSD,Used,179.99
+85264981085,HP,Intel Core i7,11.6,Silver,8.0,256.0,Intel HD Graphics 4000,2.1,Notebook/Laptop,Small,1366 x 768,HP Elitebook Revolve 810 G2,Windows 10 Pro,256,SSD,Used,259.0
+85264981087,Acer,Intel Celeron,11.6,Gray,4.0,32.0,Intel HD Graphics 400,2.48,Notebook/Laptop,Small,1366 x 768,C731T-C0X8,Chrome OS,32,eMMC,Used,41.0
+85264981118,Acer,Intel Celeron,14.0,Silver,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Medium,1920 x 1080,Acer Swift 1,Windows 11 Home,128,SSD,Used,89.99
+85264981123,HP,Intel Core i5,15.6,Silver,8.0,256.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,15-dy2795wm,Windows 11 Home,256,SSD,New,389.95
+85264981309,HP,Intel Core i5,15.6,Silver,64.0,2000.0,NVIDIA GeForce GTX 1650,4.4,Gaming Laptop Computer,Medium,1920 x 1080,HP Victus 15,Windows 11 Home,2000,SSD,New,1089.0
+85264981577,Lenovo,Intel Core i3,15.6,Gray,8.0,256.0,Intel UHD Graphics,1.2,Notebook/Laptop,Medium,1920 x 1080,Lenovo IdeaPad 3 15IAU7,Windows 11 Home,8,SSD,Open box,203.05
+85264981580,Dell,Intel Core i7,14.0,Black,32.0,1000.0,Intel HD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 7490,Windows 11 Pro,1000,SSD,Excellent,369.99
+85264981604,Microsoft,Intel Core i5,13.5,Silver,8.0,256.0,Intel HD Graphics,1.5,Notebook/Laptop,Large,2256 x 1504,Microsoft Surface Laptop 3,Windows 10 Pro,256,SSD,Used,259.84
+85264981605,HP,Intel Core i7,14.0,Silver,8.0,256.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Elitebook 840 G5,Windows 11 Pro,256,SSD,Used,172.0
+85264981612,Lenovo,Intel Core i7,14.1,Purple,16.0,256.0,NVIDIA GEFORCE GT 730M,2.9,Notebook,Small,1600 x 900,ThinkPad T460p,Windows 10 Pro,0,SSD,Used,187.77
+85264981621,Lenovo,Intel Core i7,14.0,Black,24.0,1000.0,Intel UHD Graphics 620,1.8,Thinkpad,Medium,1920 x 1080,Lenovo ThinkPad T480s,Windows 11 Pro,1000,SSD,Excellent,399.99
+85264982124,Dell,Intel Core i5,15.6,Black,16.0,1000.0,Intel UHD Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Dell Inspiron 15 3520,Windows 11 Home,1000,SSD,New,599.0
+85264982131,Lenovo,Intel Core i7,14.1,Purple,16.0,256.0,NVIDIA GEFORCE GT 730M,2.9,Notebook,Small,1600 x 900,ThinkPad T460p,Windows 10 Pro,0,SSD,Used,187.77
+85264982133,HP,Intel Core i7,17.3,Silver,64.0,512.0,NVIDIA Quadro P3200,2.6,Notebook/Laptop,Medium,1920 x 1080,HP Zbook 17 G5,Windows 10 Pro,512,SSD,Used,524.95
+85264982145,HP,Intel Core i7,16.1,Black,16.0,1000.0,NVIDIA GeForce RTX 4060,2.4,Notebook/Laptop,Medium,1920 x 1080,HP Victus,Windows 11 Home,1000,SSD,New,1149.49
+85264983019,Lenovo,Intel Core i5,14.0,Black,8.0,512.0,Intel HD Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T460,Windows 10 Pro,512,SSD,Used,200.0
+85264983114,Samsung,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.5,Notebook/Laptop,Small,1366 x 768,Samsung Chromebook 3,Chrome OS,16,SSD,Used,47.0
+85264983116,Lenovo,Intel Core i5,15.6,Black,4.0,0.0,Intel HD Graphics,2.5,Notebook/Laptop,Small,1024 x 768,E540,Windows 7 Pro,500,HDD,Used,99.99
+85264983125,Dell,Intel Core i7,14.0,Black,32.0,512.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 7400,Windows 11 Pro,512,SSD,Excellent,334.99
+85264983128,HP,Intel Celeron,14.0,Gray,4.0,16.0,Intel HD Graphics 5000,2.4,Chromebook,Small,1366 x 768,Chromebook 14 G5,Chrome OS,1,eMMC,Used,49.0
+85264983133,Lenovo,AMD Ryzen 5,14.0,Black,16.0,256.0,AMD Radeon Graphics,2.3,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T14,Windows 10 Pro,256,SSD,New,499.99
+85264983136,Acer,Intel Core i7,13.5,Gray,16.0,128.0,Intel UHD Graphics 620,1.8,Notebook/Laptop,Large,2256 x 1504,Acer Chromebook Spin 713,Chrome OS,16,SSD,Used,229.99
+85264983138,Lenovo,Intel Core i5,14.0,Gray,16.0,512.0,Intel UHD Graphics,1.0,Notebook/Laptop,Medium,1920 x 1080,IdeaPad Flex 5 14IIL05,Windows 11 Home,512,SSD,Used,320.0
+85264983146,HP,Intel Core i5,15.6,Gray,8.0,500.0,Intel HD Graphics,2.5,Notebook/Laptop,Small,1366 x 768,HP ProBook,Windows 10,500,HDD,Used,99.99
+85264983148,Dell,Intel Core i5,15.6,Black,8.0,256.0,Intel HD Graphics,2.3,Notebook/Laptop,Small,1366 x 768,Dell Latitude 3570,Windows 10 Pro,256,SSD,Used,115.0
+85264983149,Dell,Intel Core i5,14.0,Black,32.0,512.0,Intel UHD Graphics 620,1.7,Notebook/Laptop,Medium,1920 x 1080,14,Not Included,512,SSD,Used,399.0
+85264983355,Dell,Intel Celeron,11.6,Black,4.0,64.0,Intel HD,1.1,Notebook/Laptop,Small,1366 x 768,Dell Latitude 3189,Windows 11,64,SSD,Used,93.0
+85264983366,Lenovo,AMD Ryzen 5,14.0,Black,16.0,256.0,AMD Radeon Graphics,2.3,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T14,Windows 10 Pro,256,SSD,Used,419.99
+85264983367,Samsung,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.5,Notebook/Laptop,Small,1366 x 768,Samsung Chromebook 3,Chrome OS,16,SSD,Used,40.46
+85264983372,HP,AMD A4-9120C,14.0,Blue,4.0,32.0,AMD Radeon R4,2.4,Chromebook,Small,1366 x 768,HP Chromebook,Chrome OS,32,eMMC,Open box,99.99
+85264983373,HP,Intel Core i7,14.0,Silver,8.0,256.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Elitebook 840 G5,Windows 11 Pro,256,SSD,Used,172.0
+85264983376,Microsoft,Intel Core i5,13.5,Silver,8.0,256.0,Intel HD Graphics,1.5,Notebook/Laptop,Large,2256 x 1504,Microsoft Surface Laptop 3,Windows 10 Pro,256,SSD,Used,259.84
+85264983378,Lenovo,Intel Core i7,14.1,Purple,16.0,256.0,NVIDIA GEFORCE GT 730M,2.9,Notebook,Small,1600 x 900,ThinkPad T460p,Windows 10 Pro,0,SSD,Used,187.77
+85264983384,MSI,Intel Core i7,15.6,Black,8.0,512.0,NVIDIA GeForce RTX 4060,2.3,Notebook/Laptop,Medium,1920 x 1080,MSI Cyborg 15,Windows 11 Home,512,SSD,New,919.0
+85264983394,Dell,Intel Core i5,14.0,Black,8.0,500.0,Intel HD Graphics,2.3,Notebook/Laptop,Small,1366 x 768,Dell Latitude E5450,Windows 10,8,SSD,Used,140.0
+85264983404,Dell,Intel Core i5,15.6,Black,16.0,1000.0,Intel UHD Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Dell Inspiron 15 3520,Windows 11 Home,1000,SSD,New,599.0
+85264983405,Gateway,Intel Core i5,14.1,Black,8.0,512.0,Intel Iris Xe Graphics,1.2,Notebook/Laptop,Medium,1920 x 1080,Gateway i5-12th,Windows 11 Home,512,SSD,New,319.99
+85264983410,Dell,Intel Core i5,10.8,Black,8.0,0.0,Intel HD Graphics,1.6,Notebook/Laptop/Tablet,Medium,1920 x 1080,i5-4300Y,Not Included,8,SSD,For parts or not working,31.95
+85264983411,Dell,Intel Core i5,13.3,Silver,4.0,0.0,Intel GMA,2.67,Notebook/Laptop,Small,1366 x 768,Dell Latitude E4310,Windows XP,250,HDD,Used,74.99
+85264983412,Lenovo,Intel Core i5,14.0,Black,16.0,256.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T490S,Windows 11 Pro,256,SSD,Used,189.0
+85264983426,Dell,Intel Core i7,14.0,Black,16.0,256.0,Intel Iris Xe Graphics,1.8,Notebook,Medium,1920 x 1080,Latitude 5430 Rugged,Windows 11 Pro,256,SSD,Very Good,1329.99
+85264983427,Dell,Intel Core i3,14.0,Black,8.0,256.0,Intel Iris Xe Graphics,3.3,Tablet,Large,1920 x 1200,Latitude 7230 Rugged Extreme Tablet,Windows 11 Pro,256,SSD,Excellent,1049.99
+85264983429,Dell,Intel Celeron,11.6,Black,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,Dell Latitude 3189,Windows 10,128,SSD,Used,139.99
+85264983436,Microsoft,Microsoft SQ2,13.0,Black,16.0,256.0,Qualcomm Adreno 690,1.8,Notebook/Laptop,Large,2880 x 1920,Microsoft Surface Pro X,Windows 11 Home,256,SSD,Used,509.99
+85264983437,Lenovo,Intel Core i7,13.0,Black,16.0,256.0,Intel UHD Graphics 620,1.8,Notebook/Laptop,Large,3000 x 2000,Lenovo ThinkPad X1 Tablet Gen 3,Windows 11 Pro,256,SSD,Excellent,419.99
+85264983443,Acer,Intel Core i5,15.6,Black,16.0,512.0,NVIDIA GeForce RTX 3050Ti,2.7,Notebook/Laptop,Medium,1920 x 1080,Acer Nitro 5,Windows 11 Home,512,SSD,New,629.0
+85264983447,Dell,Intel Core i7,14.0,Gray,16.0,256.0,Intel Iris Xe Graphics,3.0,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 7420,Windows 11 Pro,256,SSD,Used,349.99
+85264983452,Acer,Intel Celeron,11.6,Black,4.0,32.0,Intel HD Graphics,1.6,Laptop,Small,1366 x 768,Chromebook C738T-C44Z,Chrome OS,32,SSD,Used,57.99
+85264983454,HP,Intel Core i7,17.3,Silver,64.0,512.0,NVIDIA Quadro P3200,2.6,Notebook/Laptop,Medium,1920 x 1080,HP Zbook 17 G5,Windows 10 Pro,512,SSD,Used,524.95
+85264983459,Lenovo,Intel Core i5,14.0,Black,8.0,256.0,Intel UHD Graphics,1.7,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T480s,Windows 10 Pro,256,SSD,Used,189.99
+85264983464,Dell,Intel Core i7,17.3,Silver,32.0,512.0,NVIDIA Quadro RTX 4000,2.4,Notebook/Laptop,Medium,1920 x 1080,Precision 7740,Windows 10 Pro,32,SSD,Used,649.99
+85264983468,Lenovo,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics 500,1.83,Notebook/Laptop,Small,1366 x 768,Lenovo Thinkpad Yoga 11e,Chrome OS,16,eMMC,Used,35.0
+85264983472,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Chromebook,Small,1366 x 768,HP Chromebook 11 G4,Chrome OS,16,SSD,Used,37.95
+85264983474,Dell,Intel Core i7,15.6,Silver,64.0,2000.0,NVIDIA Quadro M1200,3.9,Ultrabook,Medium,1920 x 1080,Dell Precision 5520,Windows 11 Pro,2000,NVMe,Open box,799.99
+85264983476,Lenovo,Intel Core i7,16.0,Gray,16.0,512.0,Intel Iris Xe Graphics,4.7,Notebook/Laptop,Large,2560 x 1600,82R,Windows 11,512,SSD,Open box,616.4
+85264983479,Dell,Intel Core i5,14.0,Black,32.0,500.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5440,Windows 11 Pro,500,SSD,Excellent,279.99
+85264983482,Dell,Intel Core i7,14.0,Black,64.0,2000.0,Intel HD Graphics 620,3.9,Ultrabook,Medium,1920 x 1080,Dell Latitude E7480 7480 E7280 7280,Windows 10,2000,SSD,Excellent,909.95
+85264983485,HP,Intel Core i7,17.3,Silver,64.0,4000.0,Intel Iris Xe Graphics,1.7,Notebook/Laptop,Medium,1920 x 1080,HP 17-cn3097nr,Windows 11 Pro,1000,SSD + HDD,New,1280.0
+85264983493,Samsung,Intel Core i5,13.3,Red,8.0,256.0,Intel UHD Graphics,1.6,Notebook/Laptop,Large,3840 x 2160,Samsung Galaxy Chromebook 4k,Chrome OS,256,SSD,Used,349.99
+85264983503,Acer,Intel Core i5,15.6,Black,16.0,512.0,NVIDIA GeForce RTX 3050Ti,2.7,Notebook/Laptop,Medium,1920 x 1080,Acer Nitro 5,Windows 11 Home,512,SSD,New,629.0
+85264983505,Dell,Intel Celeron,11.6,Black,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,Dell Latitude 3189,Windows 10,128,SSD,Used,139.99
+85264983514,Dell,Intel Core i7,14.0,Silver,16.0,512.0,Intel Iris Xe Graphics,3.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5440,Windows 11 Pro,512,SSD,New,825.0
+85264983519,Microsoft,Intel Core i5,13.5,Silver,8.0,256.0,Intel HD Graphics,1.5,Notebook/Laptop,Large,2256 x 1504,Microsoft Surface Laptop 3,Windows 10 Pro,256,SSD,Used,259.84
+85264983523,Lenovo,AMD Ryzen 7 Pro,14.0,Black,16.0,512.0,Radeon Vega Mobile Gfx,2.3,Notebook/Laptop,Medium,1920 x 1080,ThinkPad,Windows 11 Pro,16,SSD,Used,299.0
+85264983532,Dell,Intel Core i5,14.0,Black,32.0,1000.0,Intel UHD Graphics 620,1.7,Notebook/Laptop,Small,1366 x 768,Dell Latitude 7490,Windows 10 Pro,1000,SSD,Used,245.0
+85264983541,Dell,Intel Core i7,15.6,Silver,32.0,512.0,NVIDIA Quadro P1000,2.6,Notebook/Laptop,Medium,1920 x 1080,Dell Precision 5530,Not Included,512,SSD,Used,388.0
+85264983544,Chuwi,Intel Core i5,14.0,Gray,8.0,1000.0,Intel Iris Plus Graphics 655,3.8,Notebook/Laptop,Large,2160 x 1440,CHUWI CoreBook X,Windows 10,512,SSD,New,309.99
+85264983545,HP,Intel Celeron,11.6,Gray/Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,HP Chromebook 11 G4,Chrome OS,16,eMMC,Used,85.0
+85264983547,HP,Intel Celeron,14.0,White,4.0,64.0,Intel UHD Graphics,1.1,Notebook/Laptop,Small,1366 x 768,14-dq0080nr,Windows 11 Home,64,eMMC,Used,110.95
+85264983550,HP,Intel Core i7,15.6,Silver,8.0,256.0,NVIDIA Quadro 2000M,2.2,Notebook/Laptop,Medium,1920 x 1080,HP EliteBook 8560P,Windows 11 Home,256,SSD,Used,135.0
+85264983554,Lenovo,Intel Core i5,15.6,Black,8.0,256.0,Intel UHD Graphics 620,1.7,Notebook/Laptop,Medium,1920 x 1080,Lenovo Thinkpad T580,Windows 11 Pro,256,SSD,Used,170.0
+85264983561,Lenovo,Intel Celeron,11.6,Black,4.0,0.0,Intel HD Graphics,1.0,Chromebook,Small,1366 x 768,Lenovo Thinkpad Yoga 11e,Chrome OS,16,SSD,Used,35.0
+85264983562,HP,AMD Ryzen 7,16.1,Black,16.0,512.0,NVIDIA GeForce RTX 4060,5.1,Notebook/Laptop,Medium,1920 x 1080,HP Omen,Windows 11 Home,0,SSD,Certified,949.47
+85264983565,Dell,Intel Core i7,15.6,Black,32.0,512.0,NVIDIA Quadro P3200,2.2,Notebook/Laptop,Medium,1920 x 1080,7530,Windows 11 Pro,512,SSD,Used,329.49
+85264983570,Dell,Intel Core i7,15.6,Black,16.0,512.0,NVIDIA Quadro M1000M,2.7,Notebook/Laptop,Medium,1920 x 1080,Dell Precision 7510,Windows 11 Pro,512,SSD,Used,224.95
+85264983572,Lenovo,Intel Core i7,16.0,Gray,16.0,512.0,Intel Iris Xe Graphics,4.7,Notebook/Laptop,Large,2560 x 1600,82R,Windows 11,512,SSD,Open box,616.4
+85264983573,Chuwi,Intel N100,10.5,Gray,12.0,512.0,Intel UHD Graphics,3.4,Notebook/Laptop,Large,1920 x 1200,CHUWI MiniBook X,Windows 11 Home,512,SSD,New,344.99
+85264983575,Lenovo,Intel Core i5,14.0,Black,16.0,512.0,Intel HD Graphics 5500,2.3,Notebook/Laptop,Small,1600 x 900,Lenovo ThinkPad T450,Windows 11 Pro,512,SSD,Used,154.0
+85264983578,Dell,Intel Core i5,17.0,Silver,16.0,256.0,NVIDIA RTX A2000,4.6,Notebook/Laptop,Large,1920 x 1200,Precision 5760,Windows 10 Pro,256,SSD,Used,799.99
+85264983585,Lenovo,Intel Core i5,15.6,Black,32.0,1000.0,Intel UHD Graphics,1.6,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E15,Windows 11 Pro,1000,SSD,Used,399.99
+85264983593,Dell,Intel Core i5,14.0,Black,16.0,256.0,Intel HD Graphics 530,2.6,Notebook/Laptop,Small,1366 x 768,Latitude E5470,Windows 10 Pro,0,M.2,Used,189.05
+85264983597,Lenovo,Intel Core i5,14.0,Standard,20.0,512.0,Intel HD Graphics 520,2.4,Notebook/Laptop,Medium,1920 x 1080,T460s,Windows 11 Pro,512,SSD,Excellent,199.99
+85264983598,Lenovo,Intel Pentium,15.6,Blue,36.0,1000.0,Intel UHD Graphics,3.3,Notebook/Laptop,Medium,1920 x 1080,Lenovo IdeaPad 1,Windows 11 Home,1000,SSD + eMMC,New,479.0
+85264983599,Lenovo,Intel Core i5,14.0,Black,16.0,500.0,Intel UHD Graphics,1.7,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T480s,Windows 11 Pro,500,SSD,Excellent,279.99
+85264983601,Dell,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,Samsung ChromeBook,Chrome OS,16,SSD,Used,49.5
+85264983606,Chuwi,Intel Celeron,14.1,Gray,8.0,256.0,"Intel UHD Graphics 600,",2.7,Notebook/Laptop,Medium,1920 x 1080,CHUWI LapBook Pro,Windows 10 Home,256,SSD,New,159.99
+85264983609,Lenovo,Intel Core i5,14.0,Black,16.0,256.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T490S,Windows 11 Pro,256,SSD,Used,199.0
+85264983615,Lenovo,Intel Core i5,14.0,Black,8.0,500.0,Intel HD Graphics 4000,2.6,Notebook/Laptop,Small,1366 x 768,Lenovo Thinkpad Edge,Windows 10 Pro,500,SSD,Used,48.0
+85264983620,HP,Intel Celeron,11.6,Gray,4.0,128.0,Intel HD Graphics,1.1,Notebook/Laptop,Small,1366 x 768,HP ProBook x360 11 G1 EE,Windows 10 Home,128,SSD,Used,149.99
+85264983622,Chuwi,Intel Celeron,14.1,Gray,8.0,0.0,Intel UHD Graphics 600,2.6,Notebook/Laptop,Medium,1920 x 1080,CHUWI Herobook Pro,Windows 11 Home,256,SSD,New,202.45
+85264983636,Lenovo,Intel Celeron,11.6,Black,4.0,128.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1366 x 768,Lenovo Thinkpad Yoga 11e,Windows 10 Pro,128,SSD,Used,99.99
+85264983639,Dell,Intel Core i7,14.0,Black,16.0,1000.0,Intel UHD Graphics G1,4.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 7410,Windows 11 Pro,1000,SSD,Very Good,455.0
+85264983645,Gateway,Intel Core i7,14.1,Black,8.0,512.0,Intel Iris Xe Graphics,4.7,Notebook/Laptop,Medium,1920 x 1080,GWTC71427-BK,Windows 11 Home,512,SSD,New,362.5
+85264983658,Lenovo,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,1.6,Netbook,Small,1366 x 768,Lenovo N22,Chrome OS,16,SSD + eMMC,Used,208.99
+85264983659,Dell,Intel Pentium,15.4,Silver,2.0,120.0,ATI Mobility Radeon X600,1.73,Notebook/Laptop,Medium,1680 x 1050,Dell Latitude D810,Windows XP,120,HDD,Used,124.9
+85264983665,HP,Intel Core i5,15.6,Silver,64.0,2000.0,NVIDIA GeForce GTX 1650,4.4,Gaming Laptop Computer,Medium,1920 x 1080,HP Victus 15,Windows 11 Home,2000,SSD,New,1089.0
+85264983666,Microsoft,Intel Core i5,13.5,Silver,8.0,256.0,Intel HD Graphics,1.5,Notebook/Laptop,Large,2256 x 1504,Microsoft Surface Laptop 3,Windows 10 Pro,256,SSD,Used,259.84
+85264983669,GPD,Intel Core M3,7.0,Silver,8.0,128.0,Intel HD Graphics 615,2.6,Notebook/Laptop,Large,1920 x 1200,GDP Pocket 2,Windows 10,0,eMMC,Used,348.99
+85264983671,Lenovo,Intel Core i7,14.0,Gray,16.0,512.0,Intel UHD Graphics for 8th Generation Processors,1.9,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad X1 Yoga (4th Gen),Windows 11 Pro,512,SSD,Used,334.99
+85264983672,Lenovo,AMD,13.3,Black,8.0,512.0,AMD Radeon Graphics,2.3,Laptop,Medium,1920 x 1080,Thinkpad L14 Gen2,Windows 11 Pro,512,SSD,New,379.0
+85264983676,HP,Intel Core i7,15.6,Silver,8.0,256.0,NVIDIA Quadro 2000M,2.2,Notebook/Laptop,Medium,1920 x 1080,HP EliteBook 8560P,Windows 11 Home,256,SSD,Used,135.0
+85264983685,HP,Intel Core i5,14.0,Silver,16.0,256.0,Intel Iris Xe Graphics,2.6,Notebook/Laptop,Medium,1920 x 1080,Elitebook 840 G8,Windows 10 Pro,256,SSD,Open box,350.0
+85264983688,Lenovo,Intel Core i5,15.0,Black,16.0,256.0,Intel HD Graphics 530,2.4,Netbook,Medium,1920 x 1080,Lenovo ThinkPad T460,Windows 11 Pro,256,SSD,Used,149.0
+85264983689,HP,Intel Celeron,11.6,Gray,4.0,16.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,HP Chromebook 11 G7 EE,Chrome OS,16,SSD,Used,39.0
+85264983690,Lenovo,Intel Celeron,11.6,Black,4.0,128.0,Intel HD Graphics,1.1,Notebook/Laptop,Small,1366 x 768,Lenovo Thinkpad Yoga 11e,Windows 10,128,SSD,Used,98.0
+85264983691,Chuwi,Intel Celeron,14.1,Gray,8.0,256.0,Intel UHD Graphics 600,2.8,Notebook/Laptop,Medium,1920 x 1080,CHUWI Herobook Pro,Windows 11 Home,256,SSD,New,192.99
+85264983693,HP,Intel Core i7,17.3,Silver,64.0,1000.0,NVIDIA Quadro P1000,2.6,Notebook/Laptop,Medium,1920 x 1080,HP Zbook 17 G5,Windows 10 Pro,64,SSD,Used,645.0
+85264983694,Dell,Intel Core i5,15.6,Black,16.0,500.0,Intel HD Graphics,2.5,Notebook/Laptop,Medium,1920 x 1080,5580,Linux,500,SSD,Used,439.99
+85264983698,Lenovo,Intel Core i7,16.0,Gray,16.0,512.0,Intel Iris Xe Graphics,4.7,Notebook/Laptop,Large,2560 x 1600,82R,Windows 11,512,SSD,Open box,616.4
+85264983703,Lenovo,Intel Core i3,14.0,Black,8.0,128.0,Intel UHD Graphics,3.0,Notebook/Laptop,Medium,1920 x 1080,LENOVO L14 11Gen,Windows 11 Pro,128,SSD,Used,249.0
+85264983705,Gateway,Intel Core i5,14.1,Green,16.0,512.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Gateway GWTN141-10GR,Windows 10,512,SSD,Used,349.99
+85264983718,HP,Intel Core i7,14.0,Silver,32.0,1000.0,Intel UHD Graphics 620,4.2,Notebook/Laptop,Medium,1920 x 1080,HP Elitebook 840 G6,Windows 11 Pro,1000,SSD,Very Good,494.99
+85264983725,Lenovo,Intel Celeron,14.0,Blue,4.0,64.0,Intel UHD Graphics 600,1.1,Chromebook,Small,1366 x 768,Lenovo Chromebook 82C1,Chrome OS,64,eMMC,Open box,128.99
+85264983745,Chuwi,Intel Core i7,13.0,Gray,8.0,256.0,Intel UHD Graphics 600,3.6,Notebook/Laptop,Large,2160 x 1440,CHUWI UBOOK XPRO,Windows 11 Home,256,SSD,New,399.99
+85264983750,HP,Intel Pentium,11.6,Gray,4.0,128.0,Intel HD Graphics 505,1.1,Notebook/Laptop,Small,1366 x 768,HP ProBook,Windows 10 Pro,128,SSD,Used,129.99
+85264983756,Lenovo,Intel Celeron,11.6,Black,4.0,64.0,Intel HD Graphics,1.1,Subnotebook/Ultraportable,Small,1366 x 768,Lenovo 300e Winbook,Windows 10,64,eMMC,Used,79.99
+85264983757,HP,Intel Core i7,15.6,Black,64.0,2000.0,NVIDIA GeForce RTX 2070,4.7,Notebook/Laptop,Large,3840 x 2160,HP Omen,Windows 11 Home,4000,SSD + HDD,Used,1200.0
+85264983758,Samsung,Intel Core i5,13.3,Red,8.0,256.0,Intel UHD Graphics,1.6,Notebook/Laptop,Large,3840 x 2160,Samsung Galaxy Chromebook 4k,Chrome OS,256,SSD,Used,349.99
+85264983771,HP,Intel Core i5,14.0,Warm Gold,64.0,2000.0,Intel Iris Xe Graphics,4.2,Notebook/Laptop,Medium,1920 x 1080,HP Pavilion x360,Windows 11 Home,2000,SSD,New,779.0
+85264983776,Lenovo,Intel Core i5,15.6,Black,8.0,256.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E15,Windows 10,256,SSD,Used,174.99
+85264983777,Dell,Intel Core i5,14.0,Black,16.0,512.0,Intel HD Graphics 520,2.4,Notebook/Laptop,Small,1366 x 768,Dell Latitude 7480,Windows 10 Pro,512,SSD,Used,199.99
+85264983780,Microsoft,Microsoft SQ2,13.0,Black,16.0,256.0,Qualcomm Adreno 690,1.8,Notebook/Laptop,Large,2880 x 1920,Microsoft Surface Pro X,Windows 11 Home,256,SSD,Used,519.99
+85264983786,Lenovo,AMD Ryzen 5,14.0,Black,32.0,512.0,AMD Radeon Vega 8,2.0,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad A485,Windows 11 Pro,512,SSD,Used,239.0
+85264983795,Microsoft,Microsoft SQ2,13.0,Black,16.0,256.0,Qualcomm Adreno 690,1.8,Notebook/Laptop,Large,2880 x 1920,Microsoft Surface Pro X,Windows 11 Home,256,SSD,Used,509.99
+85264983796,Lenovo,Intel Core i7,13.0,Black,16.0,256.0,Intel UHD Graphics 620,1.8,Notebook/Laptop,Large,3000 x 2000,Lenovo ThinkPad X1 Tablet Gen 3,Windows 11 Pro,256,SSD,Excellent,419.99
+85264983798,Dell,Intel Celeron,11.6,Black,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,Dell Latitude 3189,Windows 10,128,SSD,Used,139.99
+85264983802,Acer,Intel Core i5,15.6,Black,16.0,512.0,NVIDIA GeForce RTX 3050Ti,2.7,Notebook/Laptop,Medium,1920 x 1080,Acer Nitro 5,Windows 11 Home,512,SSD,New,629.0
+85264983806,Dell,Intel Core i7,14.0,Gray,16.0,256.0,Intel Iris Xe Graphics,3.0,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 7420,Windows 11 Pro,256,SSD,Used,349.99
+85264983812,Dell,Intel Core i7,15.6,Silver,32.0,512.0,NVIDIA RTX A1000,3.8,Notebook/Laptop,Large,1920 x 1200,Precision 7680,Windows 11 Pro,32,SSD,Excellent,1799.99
+85264983829,HP,Intel Core i5,15.6,Silver,8.0,256.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,15-dy2795wm,Windows 11 Home,256,SSD,New,360.0
+85264983833,Dell,Intel Core i5,15.6,Black,32.0,256.0,Intel HD Graphics 620,3.1,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5580,Windows 10 Home,256,SSD,Very Good,362.0
+85264983835,Lenovo,Intel Core i5,15.0,Black,16.0,256.0,Intel HD Graphics 530,2.4,Netbook,Medium,1920 x 1080,Lenovo ThinkPad T460,Windows 11 Pro,256,SSD,Used,149.0
+85264983837,ASUS,Intel Core i7,15.6,Black,16.0,2000.0,NVIDIA GeForce 9400M,2.7,Notebook/Laptop,Large,3840 x 2400,ASUS q534u,Windows 10,16,SSD,Used,379.95
+85264983841,HP,Intel Celeron,11.6,Gray,4.0,16.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,HP Chromebook 11 G7 EE,Chrome OS,16,SSD,Used,39.0
+85264983842,Acer,Intel Core i5,15.6,Black,16.0,512.0,NVIDIA GeForce RTX 3050Ti,2.7,Notebook/Laptop,Medium,1920 x 1080,Acer Nitro 5,Windows 11 Home,512,SSD,New,629.0
+85264983845,Lenovo,Intel Celeron,11.6,Black,4.0,128.0,Intel HD Graphics,1.1,Notebook/Laptop,Small,1366 x 768,Lenovo Thinkpad Yoga 11e,Windows 10,128,SSD,Used,98.0
+85264983846,Chuwi,Intel Celeron,14.1,Gray,8.0,256.0,Intel UHD Graphics 600,2.8,Notebook/Laptop,Medium,1920 x 1080,CHUWI Herobook Pro,Windows 11 Home,256,SSD,New,192.99
+85264983853,Dell,Intel Core i7,14.0,Silver,16.0,512.0,Intel Iris Xe Graphics,3.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5440,Windows 11 Pro,512,SSD,New,825.0
+85264983856,Microsoft,Intel Core i5,13.5,Silver,8.0,256.0,Intel HD Graphics,1.5,Notebook/Laptop,Large,2256 x 1504,Microsoft Surface Laptop 3,Windows 10 Pro,256,SSD,Used,259.84
+85264983862,Lenovo,Intel Core i3,14.0,Black,8.0,128.0,Intel UHD Graphics,3.0,Notebook/Laptop,Medium,1920 x 1080,LENOVO L14 11Gen,Windows 11 Pro,128,SSD,Used,249.0
+85264983863,Lenovo,AMD Ryzen 7 Pro,14.0,Black,16.0,512.0,Radeon Vega Mobile Gfx,2.3,Notebook/Laptop,Medium,1920 x 1080,ThinkPad,Windows 11 Pro,16,SSD,Used,299.0
+85264983870,Gateway,Intel Core i5,14.1,Green,16.0,512.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Gateway GWTN141-10GR,Windows 10,512,SSD,Used,349.99
+85264983872,Dell,Intel Core i5,14.0,Black,32.0,1000.0,Intel UHD Graphics 620,1.7,Notebook/Laptop,Small,1366 x 768,Dell Latitude 7490,Windows 10 Pro,1000,SSD,Used,245.0
+85264983881,HP,Intel Core i7,14.0,Silver,8.0,256.0,Intel HD Graphics,2.6,Notebook/Laptop,Medium,1920 x 1080,Elitebook 840 G3,Windows 11 Pro,256,SSD,Used,199.0
+85264983910,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics 500,1.1,Chromebook,Small,1366 x 768,Chromebook 11 G6 EE,Chrome OS,16,eMMC,Used,49.99
+85264983911,Lenovo,Intel Core i7,14.0,Gray,16.0,512.0,Intel Iris Xe Graphics,3.0,Notebook/Laptop,Large,1920 x 1200,Lenovo ThinkPad X1 Yoga,Windows 10 Pro,512,SSD,Used,599.99
+85264983913,Lenovo,Intel Core i5,14.0,Black,8.0,500.0,Intel HD Graphics,2.6,Notebook/Laptop,Small,1366 x 768,Libreboot T440p,Linux,500,SSD,Used,180.0
+85264983918,HP,Intel Core i5,14.0,Silver,16.0,512.0,Intel HD Graphics,2.6,Notebook/Laptop,Medium,1920 x 1080,HP Elitebook 840,Windows 10 Pro,512,SSD,Used,199.88
+85264983929,Lenovo,Intel Core i7,14.0,Black,16.0,256.0,Intel Iris Xe Graphics,3.5,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E14,Not Included,256,SSD,Used,844.0
+85264983930,Dell,Intel Core i7,12.5,Black,8.0,256.0,Intel HD Graphics 620,1.9,Notebook/Laptop,Small,1366 x 768,Dell Latitude 7290,Windows 11 Pro,256,SSD,Used,170.0
+85264983948,Acer,Intel Celeron,11.6,Black,4.0,32.0,Intel HD Graphics,1.1,Notebook/Laptop,Small,1366 x 768,Acer Chromebook Spin 511,Chrome OS,32,SSD,Used,55.0
+85264983958,Lenovo,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,1.83,Notebook/Laptop,Small,1366 x 768,ThinkPad 11e Chromebook,Chrome OS,16,SSD,Used,49.99
+85264983966,Lenovo,Intel Core i3,14.1,Black,12.0,512.0,Intel HD Graphics 4000,3.6,Notebook/Laptop,Small,1366 x 768,Lenovo ThinkPad T420,Windows 10,8,SSD,Used,180.0
+85264983968,HP,Intel Core i5,17.0,Silver,12.0,931.51,Intel Iris Xe Graphics,1.6,Notebook/Laptop,Medium,1920 x 1080,HP 17-by2xxx,Windows 11 Home,12,HDD,Used,300.0
+85264983973,Dell,Intel Core i3,15.6,Black,16.0,128.0,Intel UHD Graphics,1.2,Notebook/Laptop,Small,1366 x 768,Dell Inspiron 15 3593,Windows 11 Home,1000,SSD + HDD,Very Good,279.0
+85264983978,Lenovo,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,1.6,Computer,Small,1366 x 768,Lenovo N22,Chrome OS,16,SSD,Used,39.95
+85264983979,Dell,Intel Celeron,11.6,Black,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,Dell Latitude 3189,Windows 10,128,SSD,Used,154.99
+85264983982,HP,Intel Core i5,17.3,Gray,8.0,256.0,Intel UHD Graphics 630,2.3,Notebook/Laptop,Small,1600 x 900,HP Zbook 17 G5,Windows 10 Pro,256,SSD,New,649.99
+85264983987,HP,Intel Core i5,14.0,Silver,32.0,500.0,Intel UHD Graphics 620,2.6,Notebook/Laptop,Medium,1920 x 1080,HP Elitebook 840 G6,Windows 11 Pro,500,SSD,Used,249.99
+85264983989,Dell,Intel Core i7,14.0,Black,32.0,256.0,Intel HD Graphics,2.6,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude E7470,Windows 10 Pro,256,SSD,Used,279.0
+85264983993,Lenovo,Intel Celeron,11.6,Black,4.0,32.0,Intel HD Graphics,2.6,Notebook/Laptop,Small,1366 x 768,Lenovo 100e Chromebook,Chrome OS,32,SSD,Used,51.0
+85264983995,Dell,Intel Core i5,13.3,Black,16.0,256.0,Intel Iris Xe Graphics,2.6,Notebook,Medium,1920 x 1080,Latitude 13 7330 Rugged Extreme,Windows 11 Pro,256,SSD,Excellent,1449.99
+85264983999,HP,Intel Core i3,15.6,Silver,8.0,256.0,Intel UHD Graphics,1.2,Notebook/Laptop,Medium,1920 x 1080,15-dy5131wm,Windows 11 Home,256,SSD,New,329.95
+85264984006,Dell,Intel Core i3,13.3,Black,8.0,128.0,Intel UHD Graphics,2.2,2 in 1 Laptop/Tablet,Medium,1920 x 1080,Latitude 3390,Windows 11 Pro,128,SSD,Used,141.0
+85264984007,Dell,Intel Core i7,15.6,Silver,32.0,512.0,NVIDIA Quadro T2000,2.7,Notebook/Laptop,Large,3840 x 2400,Dell Precision 5550,Windows 10 Pro,512,SSD,New,959.99
+85264984019,Lenovo,Intel Core i5,15.6,Black,32.0,512.0,Intel UHD Graphics 620,2.6,Notebook/Laptop,Medium,1920 x 1080,Lenovo Thinkpad T580,Windows 11 Pro,512,SSD,Very Good,369.99
+85264984034,HP,Intel Core i7,14.0,Silver,8.0,256.0,Intel HD Graphics,2.6,Notebook/Laptop,Medium,1920 x 1080,Elitebook 840 G3,Windows 11 Pro,256,SSD,Used,199.0
+85264984043,Microsoft,Intel Core i5,13.5,Silver,8.0,256.0,Intel HD Graphics,1.5,Notebook/Laptop,Large,2256 x 1504,Microsoft Surface Laptop 3,Windows 10 Pro,256,SSD,Used,259.84
+85264984048,Dell,Intel Core i7,15.6,Black,32.0,512.0,Intel HD Graphics 630,2.9,Notebook/Laptop,Medium,1920 x 1080,5580,Windows 11 Pro,512,SSD,Used,289.99
+85264984052,HP,Intel Core i7,16.0,Black,8.0,256.0,Intel HD Graphics 4600,2.7,Notebook/Laptop,Medium,1920 x 1080,HP ProBook,Windows 10 Pro,256,SSD,Used,249.99
+85264984066,Lenovo,Intel Celeron,11.6,Black,4.0,32.0,Intel HD Graphics,2.6,Notebook/Laptop,Small,1366 x 768,Lenovo 100e,Chrome OS,32,SSD,Used,55.0
+85264984072,Lenovo,Intel Core i5,15.6,Black,8.0,256.0,Intel HD Graphics,1.6,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E15,Not Included,256,SSD,Used,204.0
+85264984085,HP,Intel Core i5,14.0,Silver,16.0,256.0,Intel HD Graphics 520,2.4,Notebook/Laptop,Small,1366 x 768,HP 840 G3,Windows 10 Pro,256,SSD,Very Good,179.99
+85264984089,Lenovo,Intel Core i5,14.0,Black,16.0,256.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T490S,Windows 11 Pro,256,SSD,Used,199.0
+85264984097,Lenovo,Intel Core i5,14.0,Black,16.0,500.0,Intel UHD Graphics,1.7,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T480s,Windows 11 Pro,500,SSD,Excellent,279.99
+85264984098,Dell,Intel Core i5,15.6,Black,8.0,256.0,NVIDIA GeForce GTX 1050 Ti,2.5,Notebook/Laptop,Medium,1920 x 1080,Dell Inspiron 15 7000,Windows 10 Home,0,SSD,Used,199.99
+85264984100,Chuwi,Intel Celeron,14.1,Gray,8.0,0.0,Intel UHD Graphics 600,2.6,Notebook/Laptop,Medium,1920 x 1080,HeroBook Pro,Windows 11 Home,256,SSD,New,187.93
+85264984102,Dell,Intel Celeron,11.6,Multicolor,4.0,32.0,Intel HD Graphics,2.48,2 in 1 Laptop/Tablet,Small,1366 x 768,Dell Chromebook 3189,Chrome OS,32,eMMC,Good,94.99
+85264984104,HP,Intel Core i5,15.6,Silver,8.0,256.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,15-dy2795wm,Windows 11 Home,256,SSD,New,369.95
+85264984105,Dell,Intel Core i5,14.1,Black,4.0,0.0,Intel HD Graphics,2.5,Notebook/Laptop,Small,1024 x 768,Latitude E6420/6430,Windows XP,160,HDD,Used,79.99
+85264984108,Acer,Intel Celeron,15.6,Silver,20.0,1000.0,Intel UHD Graphics,1.1,Notebook/Laptop,Medium,1920 x 1080,Acer Aspire 1,Windows 11 Home,1000,SSD,New,399.0
+85264984110,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,HP Chromebook 11 G4,Chrome OS,16,eMMC,Used,59.95
+85264984111,Lenovo,Intel Celeron,11.6,Black,4.0,128.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1366 x 768,Lenovo Thinkpad Yoga 11e,Windows 10 Pro,128,SSD,Used,99.99
+85264984118,Dell,Intel Core i5,14.0,Black,16.0,512.0,Intel UHD Graphics 620,3.6,Notebook/Laptop,Small,1366 x 768,Dell Latitude 5490 7490,Windows 11 Pro,512,SSD,Very Good,369.0
+85264984120,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1366 x 768,HP Chromebook 11 G5,Chrome OS,16,SSD,Used,56.0
+85264984121,Dell,Intel Core Duo,15.4,Gray,4.0,256.0,Intel HD Graphics,2.0,Notebook/Laptop,Small,1028 x 800,Dell Duo,Windows XP,256,SSD,Used,284.05
+85264984122,HP,AMD A6-7310 APU,15.0,Black,8.0,0.0,AMD R4 Graphics,2.0,Notebook/Laptop,Small,1366 x 768,15-ba018wm,Windows 11 Home,1000,HDD,Used,119.99
+85264984125,Lenovo,Intel Core i7,14.5,Black,8.0,256.0,Intel UHD Graphics,2.6,Ultrabook,Medium,1920 x 1080,Lenovo ThinkPad X1,Windows 10 Pro,256,SSD,Used,104.99
+85264984128,Jumper,Intel N100,16.0,Silver,16.0,512.0,Intel UHD Graphics,3.4,Notebook/Laptop,Large,1920 x 1200,S5 Max,Windows 11 Home,512,SSD,New,299.99
+85264984134,Acer,Intel Celeron,11.6,Black,4.0,32.0,Intel HD Graphics 510,1.6,Notebook/Laptop,Small,1366 x 768,Chromebook 11 C771-C4TM,Chrome OS,32,SSD,Used,40.0
+85264984136,Dell,Intel Core i5,14.0,Black,16.0,1000.0,Intel HD Graphics 4000,2.7,Notebook/Laptop,Small,1366 x 768,Core i5,Windows 10,1000,SSD,Used,229.0
+85264984138,Dell,Intel Core i7,12.5,Black,8.0,128.0,Intel HD Graphics 520,2.6,Notebook,Medium,1920 x 1080,Dell Latitude E5270,Windows 10 Pro 64,0,SSD,Used,349.99
+85264984143,HP,Intel Celeron,11.6,Black,2.0,32.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,HP Stream,Windows 10,32,eMMC,Used,104.99
+85264984147,Lenovo,Intel Celeron,11.5,Black,64.0,64.0,AMD Radeon Graphics,1.1,Notebook/Laptop,Small,1366 x 768,Lenovo 100e,Windows 10 Pro,64,SSD,Open box,109.99
+85264984155,Samsung,Intel Core i5,11.6,Black,4.0,128.0,Intel HD Graphics 3000,1.6,Subnotebook/Ultraportable,Small,1366 x 768,Samsung Series 7,Windows 10,128,SSD,Used,129.99
+85264984158,HP,Intel Core i7,15.6,Silver,16.0,512.0,AMD Radeon R7 M350,2.8,Notebook/Laptop,Medium,1920 x 1080,Hp Elitebook 850 G4,Windows 10 Pro,512,SSD,Used,325.0
+85264984162,Lenovo,Intel Core i5,14.0,Black,32.0,1000.0,Intel UHD Graphics 620,1.7,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T480,Windows 11 Pro,1000,SSD,Used,299.0
+85264984163,Lenovo,Intel Core i7,14.0,Gray,16.0,1000.0,Intel UHD Graphics for 10th Generation Processors,1.8,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad X1 Yoga (5th Gen),Windows 11 Pro,1000,SSD,Used,489.99
+85264984178,Lenovo,Intel Celeron,14.0,Black,4.0,16.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1366 x 768,Lenovo Chromebook N40-20,Chrome OS,16,SSD,Used,51.0
+85264984213,ASUS,Intel Core i3,15.6,Black,8.0,0.0,Intel HD Graphics,2.2,Notebook/Laptop,Small,1024 x 768,X555LA,Windows 10 Pro,160,HDD,Used,89.99
+85264984231,Lenovo,Intel Core i7,15.6,Blue,12.0,512.0,Intel Iris Xe Graphics,4.7,Notebook/Laptop,Medium,1920 x 1080,Lenovo IdeaPad 5,Windows 10 Home,512,SSD,Open box,549.95
+85264984241,Acer,AMD Ryzen 5,15.6,Black,8.0,256.0,AMD Radeon Vega 8,2.1,Notebook/Laptop,Medium,1920 x 1080,AN515-43-R0YM,Windows 11 Home,256,SSD,Used,429.99
+85264984273,Samsung,Intel Celeron,11.6,Black,2.0,16.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1366 x 768,Samsung Chromebook 3,Chrome OS,16,SSD,Used,49.0
+85264984281,Acer,Intel Celeron,11.6,Gray,4.0,32.0,Intel HD Graphics 400,2.48,Notebook/Laptop,Small,1366 x 768,C731T,Chrome OS,32,eMMC,Used,54.0
+85264984286,SGIN,Intel Celeron,15.6,Silver,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,SGIN-M15,Windows 11 Home,128,SSD + HDD,New,159.0
+85264984313,Dell,Intel Core i5,12.0,Blue,8.0,128.0,Intel HD Graphics 4000,2.6,Notebook/Laptop,Small,1366 x 768,Dell Latitude E6230,Windows 11 Pro,128,SSD,Used,110.0
+85264984325,Lenovo,Intel Core i5,14.0,Gray,8.0,128.0,Intel HD Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T470,Windows 11 Pro,128,SSD,Used,179.5
+85264984345,Dell,Intel Core i5,14.1,Black,4.0,0.0,Intel HD Graphics,2.5,Notebook/Laptop,Small,1024 x 768,Latitude E6420,Windows XP,160,HDD,Used,89.99
+85264984350,Acer,Intel Celeron,11.6,Gray,4.0,32.0,Intel HD Graphics 400,2.48,Notebook/Laptop,Small,1366 x 768,C731T,Chrome OS,32,eMMC,Used,54.0
+85264984359,HP,Intel Celeron,14.0,Gray,4.0,32.0,Intel UHD Graphics 600,1.1,Notebook,Small,1366 x 768,14 G6,Chrome OS,32,eMMC,Used,139.99
+85264984369,Razer,Intel Core i7,15.6,Black,0.064,1000.0,NVIDIA GeForce RTX 3070,3.8,Ultrabook,Large,3840 x 2400,Razer Blade,Linux,1000,SSD,New,2339.0
+85264984373,HP,Intel Core i5,15.6,Black,16.0,256.0,Intel HD Graphics 5500,2.2,Notebook/Laptop,Small,1366 x 768,HP 850 G2,Windows 11,256,SSD,Used,199.0
+85264984374,Lenovo,Intel Core i7,15.6,Blue,12.0,512.0,Intel Iris Xe Graphics,4.7,Notebook/Laptop,Medium,1920 x 1080,Core i7-1165U,Windows 11,512,SSD,Open box,569.85
+85264984377,Samsung,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.5,Notebook/Laptop,Small,1366 x 768,Samsung Chromebook 3,Chrome OS,16,SSD,Used,38.0
+85264984380,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1366 x 768,HP Chromebook 11 G5,Chrome OS,16,SSD,Used,54.0
+85264984382,ASUS,Intel Core i7,15.0,Gray,16.0,500.0,NVIDIA 850m,2.4,Notebook/Laptop,Medium,1920 x 1080,N550J,Windows 10,500,HDD,Used,295.0
+85264984390,Lenovo,Intel Celeron,11.6,Black,32.0,32.0,Intel HD Graphics,1.1,Chromebook,Small,1366 x 768,Samsung ChromeBook,Chrome OS,32,eMMC,New,110.0
+85264984406,HP,AMD Ryzen 3,14.0,Silver,16.0,512.0,AMD Radeon Graphics,2.0,Notebook/Laptop,Medium,1920 x 1080,HP EliteBook 745 G5,Windows 11 Pro,0,SSD,Very Good,299.99
+85264984410,Lenovo,Intel Core i5,14.0,Gray,8.0,128.0,Intel HD Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T470,Windows 11 Pro,128,SSD,Used,179.5
+85264984435,HP,AMD Ryzen 7,15.6,Blue,8.0,512.0,AMD Radeon Graphics,4.3,Notebook/Laptop,Medium,1920 x 1080,Ryzen 7 5700U,Windows 11,512,SSD,Open box,454.37
+85264984446,Acer,Intel Celeron,11.6,Gray,4.0,32.0,Intel HD Graphics 400,2.48,Notebook/Laptop,Small,1366 x 768,C731T,Chrome OS,32,eMMC,Used,54.0
+85264984449,Dell,Intel Core i5,14.0,Black,8.0,256.0,Intel HD Graphics 515,2.6,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5480,Windows 10 Pro,0,SSD,Good,144.9
+85264984450,Dell,Intel Core i7,12.0,Black,8.0,256.0,Intel UHD Graphics 620,1.7,Notebook/Laptop,Small,1366 x 768,7290,Windows 10,256,SSD,Used,375.0
+85264984465,Dell,Intel Core i7,17.3,Black,16.0,2000.0,Intel HD Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Dell inspiron 7720,Windows 10 Pro,2000,SSD + HDD,Used,600.0
+85264984476,Lenovo,Intel Core i5,14.0,Black,8.0,256.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,20NY-S3Y600,Windows 10,256,SSD,Used,187.99
+85264984477,HP,Intel Core i5,15.6,Black,8.0,128.0,Intel HD Graphics 520,2.4,Notebook/Laptop,Medium,1920 x 1080,HP ProBook 440 G3,Windows 11 Pro,500,HDD,Used,100.0
+85264984489,Dell,AMD Ryzen 5,14.0,Bronze,8.0,256.0,AMD Radeon Graphics,2.1,Notebook/Laptop,Medium,1920 x 1080,Dell Inspiron 14 7405,Windows 11,256,SSD,Good,299.0
+85264984502,Dell,Intel Celeron,15.6,Black,4.0,0.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1024 x 768,Dell Inspiron 15 3552,Windows 7 Pro,500,HDD,Used,89.99
+85264984508,Dell,Intel Core i7,14.0,Black,16.0,512.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5490,Windows 11 Pro,512,SSD,Used,179.99
+85264984518,HP,Intel Celeron,14.0,Multicolor,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,HP Chromebook 14 G4,Chrome OS,16,eMMC,Used,79.99
+85264984523,HP,Intel Core i5,15.6,Silver,8.0,256.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,15-dy2795wm,Windows 11 Home,256,SSD,New,369.95
+85264984524,HP,Intel Core i7,15.6,Silver/Black,16.0,256.0,Intel HD Graphics 620,1.8,Notebook/Laptop,Medium,1920 x 1080,HP EliteBook 850,Windows 11 Pro,256,SSD,Good,199.99
+85264984532,HP,Intel Celeron,14.0,Multicolor,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,HP Chromebook 14 G3,Chrome OS,16,eMMC,Good,84.99
+85264984533,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,HP Chromebook 11 G4,Chrome OS,16,eMMC,Used,59.95
+85264984534,Lenovo,Intel Celeron,11.6,Multicolor,4.0,32.0,Intel HD Graphics,2.4,Notebook/Laptop,Small,1366 x 768,Lenovo 100e,Chrome OS,32,eMMC,Good,74.99
+85264984541,Acer,Intel Celeron,11.6,Gray,4.0,16.0,Intel HD Graphics,1.4,Notebook/Laptop,Small,1366 x 768,Acer C740,Chrome OS,16,SSD,Good,49.99
+85264984542,Lenovo,Intel Core i3,14.0,Black,8.0,128.0,Intel UHD Graphics,2.1,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E14 G2,Windows 11 Home,500,SSD + HDD,Used,149.99
+85264984545,HP,Intel Core i5,14.0,Silver,16.0,256.0,Intel HD Graphics 520,2.4,Notebook/Laptop,Small,1366 x 768,HP 840 G3,Windows 10 Pro,256,SSD,Very Good,179.99
+85264984562,Microsoft,Intel Core i5,12.3,Black,8.0,128.0,Intel Iris Plus Graphics,1.1,Notebook/Laptop,Large,2736 x 1824,Surface Pro 7,Windows 11 Home,128,SSD,Used,255.0
+85264984575,HP,AMD E-Series,14.0,Silver,8.0,512.0,AMD Radeon Graphics,1.8,Notebook/Laptop,Medium,1920 x 1080,14-an013nr,Windows 11 Home,512,SSD,Used,120.0
+85264984606,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics 6000,2.16,Notebook/Laptop,Small,1366 x 768,Chromebook 11 G4,Chrome OS,16,SSD,For parts or not working,114.99
+85264984626,HP,Intel Core i5,15.6,Gray,8.0,256.0,Intel Iris Xe Graphics,4.6,Notebook/Laptop,Medium,1920 x 1080,HP ENVY x360,Windows 11 Home,0,SSD,Certified,479.57
+85264984627,Dell,Intel Core i7,14.0,Black,32.0,1000.0,Intel Iris Xe Graphics,1.8,Notebook,Medium,1920 x 1080,Latitude 5430 Rugged,Windows 11 Pro,1000,SSD,Excellent,1899.99
+85264984639,Lenovo,Intel Core i5,14.0,Black,16.0,256.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E14 Gen 2,Windows 11 Pro,512,SSD,Used,231.0
+85264984640,Dell,Intel Core i7,15.6,Silver,16.0,256.0,Intel Iris Xe Graphics,2.8,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5520,Windows 11 Pro,256,SSD,Excellent,1049.99
+85264984641,Dell,AMD Ryzen 5,14.0,Bronze,8.0,256.0,AMD Radeon Graphics,2.1,Notebook/Laptop,Medium,1920 x 1080,Dell Inspiron 14 7405,Windows 11,256,SSD,Good,299.0
+85264984647,HP,Intel Core i3,15.6,Silver,8.0,256.0,Intel UHD Graphics,4.1,Notebook/Laptop,Small,1366 x 768,15-dy2091wm,Windows 11 Home S,256,SSD,New,325.0
+85264984653,HP,Intel Core i7,15.6,Silver,16.0,256.0,Intel UHD Graphics 620,4.3,Notebook/Laptop,Medium,1920 x 1080,HP ProBook,Windows 10,256,SSD,Used,299.99
+85264984654,HP,Intel Core i5,15.6,Gray,8.0,256.0,Intel Iris Xe Graphics,4.6,Notebook/Laptop,Medium,1920 x 1080,HP ENVY x360,Windows 11 Home,0,SSD,Certified,479.57
+85264984675,Dell,Intel Celeron,15.6,Black,4.0,0.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1024 x 768,Dell Inspiron 15 3552,Windows 7 Pro,500,HDD,Used,89.99
+85264984681,Dell,Intel Celeron,11.6,Black,4.0,16.0,AMD Radeon Graphics,2.16,Notebook/Laptop,Small,1366 x 768,Dell Chromebook,Chrome OS,4,SSD,Used,45.0
+85264984690,HP,Intel Core i3,15.6,Gray,8.0,256.0,Intel UHD Graphics,4.1,Notebook/Laptop,Small,1366 x 768,15-dy5131wm,Windows 11 Home S,256,SSD,New,314.95
+85264984692,Zzetze,Intel Celeron,14.0,Gray,6.0,128.0,Intel HD Graphics 500,2.4,Notebook/Laptop,Small,1366 x 768,X23,Windows 11 Pro,128,SSD,New,172.0
+85264984700,Dell,Intel Core i3,14.0,Black,8.0,256.0,Intel Iris Xe Graphics,3.3,Tablet,Large,1920 x 1200,Latitude 7230 Rugged Extreme Tablet,Windows 11 Pro,256,SSD,Excellent,1049.99
+85264984702,HP,Intel Core i5,17.3,Gray,8.0,256.0,Intel UHD Graphics 630,2.3,Notebook/Laptop,Small,1600 x 900,HP Zbook 17 G5,Windows 10 Pro,256,SSD,New,649.99
+85264984716,Dell,Intel Core i7,14.0,Gray,16.0,512.0,Intel Iris Xe Graphics,2.8,Notebook/Laptop,Small,1366 x 768,Latitude 3420,Windows 10 Pro,512,SSD,Used,349.95
+85264984726,Dell,Intel Core i7,14.0,Black,32.0,1000.0,Intel Iris Xe Graphics,1.8,Notebook,Medium,1920 x 1080,Latitude 5430 Rugged,Windows 11 Pro,1000,SSD,Excellent,1899.99
+85264984731,HP,Intel Core i3,15.6,Silver,8.0,256.0,Intel UHD Graphics,1.2,Notebook/Laptop,Medium,1920 x 1080,15-dy5131wm,Windows 11 Home,256,SSD,New,329.95
+85264984732,Lenovo,AMD Ryzen 5,15.6,Black,40.0,2000.0,AMD Radeon Graphics,4.3,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E15,Windows 11 Pro,2000,SSD,New,919.0
+85264984746,HP,Intel Core i5,14.0,Silver,16.0,256.0,Intel HD Graphics 520,2.4,Notebook/Laptop,Small,1366 x 768,HP Elitebook 840 G3,Windows 10 Pro,256,SSD,Used,110.0
+85264984752,Lenovo,Intel Celeron,11.6,Black,4.0,32.0,Intel HD Graphics,2.6,Notebook/Laptop,Small,1366 x 768,Lenovo 100e,Chrome OS,32,SSD,Used,55.0
+85264984754,HP,Intel Celeron,11.6,Gray,4.0,16.0,Intel HD Graphics 620,1.6,Notebook/Laptop,Small,1366 x 768,ChromeBook,Chrome OS,0,SSD,Used,149.99
+85264984755,Dell,Intel Core i5,17.3,Gray,16.0,500.0,Intel HD Graphics 620,2.5,Notebook/Laptop,Small,1900 x 600,Dell Inspiron 5767,Windows 10 Pro,500,SSD,Used,425.0
+85264984758,Dell,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,Samsung ChromeBook,Chrome OS,16,SSD,Very Good,52.99
+85264984760,HP,AMD Ryzen Pro 3,14.0,Silver,8.0,256.0,Intel HD Graphics,2.1,Notebook/Laptop,Medium,1920 x 1080,HP EliteBook mt45,Windows 10 Home,256,SSD,Used,243.0
+85264984771,Dell,Intel Core i7,14.0,Black,16.0,256.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5400,Windows 11 Pro,256,SSD,Very Good,199.0
+85264984776,Dell,Intel Core i5,14.0,Silver,16.0,512.0,Intel Iris Xe Graphics,2.6,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5420,Windows 11 Pro,512,SSD,Excellent,699.99
+85264984788,Acer,Intel Core i5,15.6,Black,16.0,256.0,NVIDIA Geforce RTX 1650,2.6,Notebook/Laptop,Medium,1920 x 1080,Nitro 5 AN515-54-70KK,Windows 11,256,SSD,Used,435.0
+85264984802,Microsoft,Intel Core i5,12.3,Black,8.0,128.0,Intel Iris Plus Graphics,1.1,Notebook/Laptop,Large,2736 x 1824,Surface Pro 7,Windows 11 Home,128,SSD,Used,255.0
+85264984814,Acer,Intel Core i3,17.3,Gray,8.0,256.0,Intel UHD Graphics,3.0,Notebook/Laptop,Small,1600 x 900,Acer Aspire 3,Windows 11 Home,256,SSD,New,399.0
+85264984826,Dell,Intel Core i7,15.0,Gray,8.0,256.0,NVIDIA GeForce GTX 1050 Ti,2.8,Notebook/Laptop,Medium,1920 x 1080,Alienware 15 R3,Windows 10 Home,1000,SSD + HDD,Used,300.0
+85264984828,HP,AMD E-Series,14.0,Silver,8.0,512.0,AMD Radeon Graphics,1.8,Notebook/Laptop,Medium,1920 x 1080,14-an013nr,Windows 11 Home,512,SSD,Used,120.0
+85264984847,Lenovo,Intel Core i5,15.6,Black,32.0,1000.0,Intel UHD Graphics,1.6,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E15,Windows 11 Pro,1000,SSD,Used,399.99
+85264984853,Dell,Intel Core i7,15.6,Black,32.0,1000.0,NVIDIA Quadro M620,2.8,Notebook/Laptop,Medium,1920 x 1080,Dell Precision 3520,Windows 11 Pro,1000,SSD,Excellent,399.99
+85264984879,Microsoft,Microsoft SQ1,13.0,Black,8.0,128.0,Microsoft SQ1 Adreno 685,3.0,2 in 1 Laptop/Tablet,Large,2880 x 1920,Microsoft Surface Pro X,Windows 10,8,SSD,Open box,510.0
+85264984962,Lenovo,Intel Pentium,14.0,Gray,4.0,128.0,Intel UHD Graphics 605,1.1,Notebook/Laptop,Small,1366 x 768,IdeaPad 1 14IGL05,Windows 11 Home,128,SSD,For parts or not working,159.99
+85264984968,Dell,Intel Core i5,14.0,Black,16.0,512.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5430 Rugged,Windows 11 Pro,512,SSD,New,1482.83
+85264984992,Microsoft,Intel Core i5,13.5,Silver,8.0,256.0,Intel UHD Graphics 620,1.7,Notebook/Laptop,Large,3000 x 2000,Microsoft Surface Book 2,Windows 10 Pro,256,SSD,For parts or not working,100.0
+85264984999,Panasonic,Intel Core Duo,13.1,Silver,2.0,256.0,Intel HD Graphics,1.6,Notebook/Laptop,Small,1024 x 728,Panasonic Toughbook CF-30,Windows 7,320,SSD,Used,164.95
+85264985007,HP,Intel Core i3,15.6,Black,6.0,1000.0,Intel HD Graphics,2.3,Notebook/Laptop,Small,1366 x 768,HP 15-ay009dx,Windows 10 Home,1000,HDD,Used,62.95
+85264985023,Chuwi,Intel Core M3,13.3,Gray,8.0,256.0,Intel HD Graphics 615,1.1,Notebook/Laptop,Medium,1920 x 1080,Aerobook Pro,Windows 10,256,SSD,New,287.12
+85264985031,HP,Intel Celeron,14.0,Multicolor,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,HP Chromebook 14 G4,Chrome OS,16,eMMC,Used,79.99
+85264985033,Chuwi,Quad Core,15.6,Gray,8.0,256.0,Intel UHD Graphics,3.4,Notebook/Laptop,Medium,1920 x 1080,GemiBook Plus,Windows 11 Home,256,SSD,New,256.49
+85264985036,Dell,Intel Core i7,14.0,Gray,16.0,256.0,Intel Iris Xe Graphics,3.0,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 7420,Windows 11 Pro,256,SSD,Used,349.99
+85264985037,Lenovo,Intel Core i7,14.1,Purple,16.0,256.0,NVIDIA GEFORCE GT 730M,2.9,Notebook,Small,1600 x 900,ThinkPad T460p,Windows 10 Pro,0,SSD,Used,187.77
+85264985038,Lenovo,Intel Core i5,14.0,Standard,12.0,512.0,Intel HD Graphics 520,2.4,Notebook/Laptop,Medium,1920 x 1080,t470s i5,Windows 11 Pro,512,SSD,Excellent,219.99
+85264985039,HP,Intel Core i3,15.6,Silver,32.0,1000.0,Intel UHD Graphics,4.1,Notebook/Laptop,Small,1366 x 768,HP 15 Inch Laptop,Windows 11 Home,1000,SSD,New,579.0
+85264985041,Dell,Intel Core i5,12.3,Black,8.0,256.0,Intel UHD Graphics 620,1.7,Tablet,Large,1920 x 1280,Dell Latitude 5290,Windows 11 Pro,256,SSD,Used,110.0
+85264985048,Lenovo,Intel Core i3,15.6,Black,8.0,256.0,Intel HD Graphics 4600,2.4,Notebook/Laptop,Small,1366 x 768,Lenovo ThinkPad E540,Windows 10 Pro,250,SSD,Used,100.0
+85264985053,Lenovo,Intel Core i7,15.6,Black,16.0,256.0,Intel UHD Graphics 620,1.8,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T590,Windows 11 Pro,256,SSD,Used,279.99
+85264985056,Chuwi,Intel Celeron,14.1,Gray,8.0,0.0,Intel UHD Graphics 600,2.6,Notebook/Laptop,Medium,1920 x 1080,N4000,Windows 10,256,SSD,New,133.99
+85264985059,Lenovo,Intel Celeron,11.6,Multicolor,4.0,32.0,Intel HD Graphics,2.4,Notebook/Laptop,Small,1366 x 768,Lenovo 100e,Chrome OS,32,eMMC,Good,74.99
+85264985069,Acer,Intel Celeron,11.6,Gray,2.0,16.0,Intel HD Graphics,1.4,Notebook/Laptop,Small,1366 x 768,Acer Chromebook C720,Chrome OS,16,SSD,Good,42.99
+85264985070,Dell,Intel Core i5,14.0,Black,32.0,1000.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5440,Windows 11 Pro,1000,SSD,Excellent,299.99
+85264985075,Dell,Intel Core i5,14.0,Black,16.0,128.0,Intel HD Graphics 520,2.6,Notebook/Laptop,Small,1366 x 768,Dell Latitude 7480,Windows 10,128,SSD,Used,129.99
+85264985076,Panasonic,Intel Core i5,10.1,Silver,16.0,256.0,Intel HD Graphics 615,3.3,Notebook/Laptop,Large,1920 x 1200,Panasonic Toughbook CF-20,Windows 10 Pro,256,SSD,Excellent,669.0
+85264985082,HP,Intel Core i7,17.3,Brown,8.0,1000.0,AMD Radeon Graphics,2.67,Notebook/Laptop,Small,1600 x 900,HP ProBook,Windows 10 Pro,1000,HDD,Used,175.0
+85264985084,Dell,Intel Core i7,15.6,Gray,16.0,512.0,Intel UHD Graphics,1.8,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5540,Windows 11 Pro,512,SSD,Excellent,709.99
+85264985094,Lenovo,Intel Core i5,12.1,Black,4.0,0.0,Intel HD Graphics,1.7,Notebook/Laptop,Small,1366 x 768,Lenovo ThinkPad Twist i5-3317U,Windows 10,1000,HDD,Used,190.0
+85264985114,Dell,Intel Celeron,11.6,Black,4.0,32.0,AMD Radeon Graphics,1.6,Notebook/Laptop,Small,1366 x 768,P22T,Chrome OS,32,SSD,Used,49.0
+85264985129,Fujitsu,Intel Core i7,13.3,Gray,8.0,256.0,AMD Radeon Graphics,2.7,Notebook/Laptop,Small,1366 x 768,Fujitsu LifeBook T902,Windows 10,0,SSD,Used,200.0
+85264985145,Lenovo,Intel Core i7,14.0,Black,24.0,256.0,Intel UHD Graphics 620,1.9,Notebook,Medium,1920 x 1080,T480,Windows 11,256,SSD,Used,249.95
+85264985149,Dell,Intel Core i7,15.6,Black,16.0,1000.0,Intel Iris Xe Graphics,2.8,Notebook/Laptop,Large,3840 x 2160,Dell Inspiron 15 7506,Windows 11 Home,1000,SSD,Used,500.0
+85264985158,HP,Intel Core i7,15.6,Black,64.0,2000.0,NVIDIA GeForce RTX 2070,4.7,Notebook/Laptop,Large,3840 x 2160,HP Omen,Windows 11 Home,4000,SSD + HDD,Used,1200.0
+85264985181,Lenovo,Intel Core i5,14.0,Black,8.0,256.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,20NY-S3Y600,Windows 10,256,SSD,Used,187.99
+85264985195,Dell,Intel Core i7,17.0,Silver,16.0,512.0,NVIDIA GeForce MX350,2.8,Notebook/Laptop,Large,2560 x 1600,Inspiron 7000,Windows 10 Pro,512,SSD,Used,400.0
+85264985197,Acer,Intel Core i3,17.3,Gray,8.0,256.0,Intel UHD Graphics,3.0,Notebook/Laptop,Small,1600 x 900,Acer Aspire 3,Windows 11 Home,256,SSD,New,399.0
+85264985214,Dell,Intel Core i7,14.0,Black,8.0,256.0,Intel HD Graphics,2.7,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude E7440,Windows 11 Pro,8,SSD,Used,140.0
+85264985238,Dell,Intel Core i7,12.5,Black,16.0,256.0,Intel HD Graphics,2.6,Notebook/Laptop,Small,1366 x 768,Latitude E7270,Windows 11 Pro,256,SSD,Used,125.0
+85264985264,HP,Intel Core i5,15.6,Gray,8.0,256.0,Intel Iris Xe Graphics,4.6,Notebook/Laptop,Medium,1920 x 1080,HP ENVY x360,Windows 11 Home,0,SSD,Certified,479.57
+85264985330,Dell,Intel Celeron,11.6,Black,4.0,32.0,AMD Radeon Graphics,1.6,Notebook/Laptop,Small,1366 x 768,P22T,Chrome OS,32,SSD,Used,49.0
+85264985351,HP,Intel Core i5,12.3,Silver,8.0,128.0,Intel UHD Graphics 620,2.5,Notebook/Laptop,Large,2736 x 1824,HP ELITE X2 1012 G2,Windows 11 Pro,128,SSD,Used,89.99
+85264985366,Panasonic,Intel Core i5,10.1,Silver,16.0,256.0,Intel HD Graphics 615,3.3,Notebook/Laptop,Large,1920 x 1200,Panasonic Toughbook CF-20,Windows 11 Pro,256,SSD,Excellent,668.0
+85264985469,Lenovo,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,1.83,Notebook/Laptop,Small,1366 x 768,Lenovo Thinkpad Yoga 11e,Chrome OS,16,SSD,Used,25.5
+85264985472,Dell,Intel Core i7,14.0,Silver,16.0,512.0,Intel HD Graphics,5.0,Notebook/Laptop,Medium,1920 x 1080,Latitude 5440 Laptop,Windows 11 Pro,512,SSD,New,888.88
+85264985476,Panasonic,Intel Core i5,10.1,Silver,16.0,256.0,Intel HD Graphics 615,3.3,Notebook/Laptop,Large,1920 x 1200,Panasonic Toughbook CF-20,Windows 11 Pro,256,SSD,Excellent,668.0
+85264985478,HP,Intel Core i5,15.6,Gray,8.0,256.0,Intel Iris Xe Graphics,4.6,Notebook/Laptop,Medium,1920 x 1080,HP ENVY x360,Windows 11 Home,0,SSD,Certified,479.57
+85264985493,Dell,Intel Core i7,15.0,Gray,8.0,256.0,NVIDIA GeForce GTX 1050 Ti,2.8,Notebook/Laptop,Medium,1920 x 1080,Alienware 15 R3,Windows 10 Home,1000,SSD + HDD,Used,300.0
+85264985502,HP,Intel Core i7,15.6,Silver,16.0,256.0,Intel UHD Graphics 620,4.3,Notebook/Laptop,Medium,1920 x 1080,HP ProBook,Windows 10,256,SSD,Used,299.99
+85264985558,Lenovo,Intel Celeron,11.6,Multicolor,4.0,32.0,Intel HD Graphics,2.4,Notebook/Laptop,Small,1366 x 768,Lenovo 100e,Chrome OS,32,eMMC,Good,74.99
+85264985572,Acer,Intel Celeron,11.6,Gray,2.0,16.0,Intel HD Graphics,1.4,Notebook/Laptop,Small,1366 x 768,Acer Chromebook C720,Chrome OS,16,SSD,Good,42.99
+85264985574,Dell,Intel Celeron,11.6,Black,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,Dell Latitude 3190,Windows 10 Pro,128,SSD,Used,99.0
+85264985576,HP,AMD Ryzen 7,14.0,Silver,16.0,1000.0,AMD Radeon Graphics,1.9,Notebook/Laptop,Medium,1920 x 1080,HP Dev One Notebook PC,Pop OS,1000,SSD,Certified,538.99
+85264985577,HP,Intel Core i5,14.0,Silver,32.0,500.0,Intel UHD Graphics 620,2.6,Notebook/Laptop,Medium,1920 x 1080,Hp Elitlebook G5,Windows 11 Pro,500,SSD,Very Good,289.99
+85264985590,Dell,Intel Core i7,14.0,Gray,16.0,256.0,Intel Iris Xe Graphics,3.0,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 7420,Windows 11 Pro,256,SSD,Used,349.99
+85264985591,Lenovo,Intel Core i7,14.1,Purple,16.0,256.0,NVIDIA GEFORCE GT 730M,2.9,Notebook,Small,1600 x 900,ThinkPad T460p,Windows 10 Pro,0,SSD,Used,187.77
+85264985592,Lenovo,Intel Core i5,14.0,Standard,12.0,512.0,Intel HD Graphics 520,2.4,Notebook/Laptop,Medium,1920 x 1080,t470s i5,Windows 11 Pro,512,SSD,Excellent,219.99
+85264985593,HP,Intel Core i3,15.6,Silver,32.0,1000.0,Intel UHD Graphics,4.1,Notebook/Laptop,Small,1366 x 768,HP 15 Inch Laptop,Windows 11 Home,1000,SSD,New,579.0
+85264985598,Dell,Intel Core i5,12.3,Black,8.0,256.0,Intel UHD Graphics 620,1.7,Tablet,Large,1920 x 1280,Dell Latitude 5290,Windows 11 Pro,256,SSD,Used,110.0
+85264985601,Lenovo,Intel Core i3,15.6,Black,8.0,256.0,Intel HD Graphics 4600,2.4,Notebook/Laptop,Small,1366 x 768,Lenovo ThinkPad E540,Windows 10 Pro,250,SSD,Used,100.0
+85264985666,Dell,Intel Core i5,14.0,Black,32.0,512.0,Intel Iris Xe Graphics,2.4,Notebook,Medium,1920 x 1080,Latitude 5430 Rugged,Windows 11 Pro,512,SSD,Excellent,1449.99
+85264985670,HP,Intel Core i7,13.3,Silver,8.0,1000.0,Intel Iris Plus Graphics,1.6,Notebook/Laptop,Large,3840 x 2160,HP Envy,Windows 11 Pro,1000,SSD,New,819.99
+85264985673,Dell,Intel Core i5,14.1,Silver/Black,4.0,0.0,Intel HD Graphics,2.4,Notebook/Laptop,Small,1280 x 800,Dell Latitude E6410,Windows XP,160,HDD,Used,169.95
+85264985677,Lenovo,AMD Ryzen 5,14.0,Black,16.0,512.0,AMD Radeon Vega 8,2.0,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad A485,Windows 11 Pro,512,SSD,Used,199.0
+85264985678,Dell,Intel Core i7,14.0,Black,8.0,256.0,Intel HD Graphics,2.7,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude E7440,Windows 11 Pro,8,SSD,Used,140.0
+85264985691,Dell,Intel Core i7,14.0,Black,16.0,256.0,Intel Iris Xe Graphics,3.0,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 7320,Not Included,256,SSD,Used,449.95
+85264985706,HP,Intel Core i5,14.0,Silver,16.0,256.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,Hp Elitebook 840,Windows 10,256,SSD,Used,189.99
+85264985720,Dell,Intel Core i5,15.6,Black/Red,8.0,256.0,NVIDIA GeForce GTX 1050 Ti,2.5,Notebook/Laptop,Medium,1920 x 1080,Dell Inspiron 15 7000,Windows 10 Home,1000,SSD,Used,450.0
+85264985746,HP,AMD 3015Ce,14.0,Silver,4.0,64.0,AMD Radeon Graphics,2.3,Chromebook,Small,1366 x 768,14A-NB0013DX,Chrome OS,64,eMMC,Used,89.99
+85264985854,Dell,Intel Core i7,15.6,Silver,16.0,256.0,Intel Iris Xe Graphics,2.8,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5520,Windows 11 Pro,256,SSD,Excellent,1049.99
+85264985874,Lenovo,Intel Core i5,14.0,Black,8.0,256.0,Intel HD Graphics,1.9,Notebook/Laptop,Small,1600 x 900,Lenovo ThinkPad T440,Windows 11 Pro,256,SSD,Used,119.0
+85264985877,Acer,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1024 x 480,C732 Chromebook,Chrome OS,16,SSD,Good,48.99
+85264985883,Acer,Intel Core i3,17.3,Gray,8.0,256.0,Intel UHD Graphics,3.0,Notebook/Laptop,Small,1600 x 900,Acer Aspire 3,Windows 11 Home,256,SSD,New,399.0
+85264985891,Dell,Intel Core i5,14.0,Black,8.0,256.0,Intel Iris Xe Graphics,2.4,Notebook,Medium,1920 x 1080,Latitude 5430 Rugged,Windows 11 Pro,256,SSD,Very Good,1249.99
+85264985904,HP,Intel Core i7,15.6,Gray,32.0,1000.0,NVIDIA Quadro K1100M,3.8,Laptop,Medium,1920 x 1080,HP ZBook 15,Windows 10 Pro,2000,SSD + HDD,Used,834.51
+85264985905,HP,Intel Core i7,15.6,Silver,32.0,512.0,Intel UHD Graphics 620,1.9,Notebook,Medium,1920 x 1080,HP EliteBook 850 G5,Windows 11 Pro,512,SSD,Used,449.99
+85264985935,Lenovo,Intel Core i7,14.0,Gray,8.0,256.0,Intel UHD Graphics,1.8,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad E14,Windows 10 Pro,256,SSD,Used,280.0
+85264985937,HP,Intel Core i7,15.6,Silver,16.0,512.0,Intel Iris Xe Graphics,2.8,Notebook/Laptop,Medium,1920 x 1080,HP ProBook 450 G8,Windows 10 Pro,512,SSD,Used,389.0
+85264985995,Lenovo,AMD Ryzen 5,14.0,Black,16.0,512.0,AMD Radeon Vega 8,2.0,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad A485,Windows 11 Pro,512,SSD,Used,199.0
+85264985996,Acer,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1024 x 480,C732 Chromebook,Chrome OS,16,SSD,Good,48.99
+85264986021,Samsung,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.5,Notebook/Laptop,Small,1366 x 768,Samsung Chromebook 3,Chrome OS,16,SSD,Used,32.99
+85264986034,Dell,Intel Core i5,13.3,Black,8.0,32.0,Intel HD Graphics 5300,2.3,Notebook/Laptop,Medium,1920 x 1080,Dell Chromebook 13 7310,Chrome OS,32,SSD,Used,115.0
+85264986044,Lenovo,Intel Core i5,14.0,Black,8.0,256.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,20NY-S3Y600,Windows 10,256,SSD,Used,187.99
+85264986054,HP,Intel Core i7,16.0,Black,16.0,1000.0,Intel Arc 370M,4.6,Notebook/Laptop,Large,2560 x 1600,HP ENVY 16-h0112nr,Windows 11 Home,16,SSD,Open box,699.95
+85264986067,HP,Intel Core i7,14.0,Silver,16.0,512.0,Intel HD Graphics,2.6,Notebook/Laptop,Large,2560 x 1440,HP Elitebook 840,Windows 10 Pro,512,SSD,Used,199.99
+85264986082,Lenovo,Intel Core i5,15.6,Black,8.0,500.0,Intel HD Graphics,2.3,Notebook/Laptop,Small,1366 x 768,Lenovo ThinkPad E560,Windows 10 Pro,500,SSD,Used,149.0
+85264986083,Dell,Intel Core i5,14.0,Black,8.0,256.0,Intel Iris Xe Graphics,2.4,Notebook,Medium,1920 x 1080,Latitude 5430 Rugged,Windows 11 Pro,256,SSD,Very Good,1249.99
+85264986089,ASUS,Intel Core i5,14.0,Black,8.0,512.0,Intel Iris Xe Graphics,2.5,Notebook/Laptop,Large,2880 x 1800,ASUS VivoBook,Windows 11 Home,512,SSD,Open box,528.88
+85264986096,HP,AMD Ryzen 7,14.0,Silver,32.0,512.0,AMD Radeon RX Vega 10,2.3,Notebook/Laptop,Medium,1920 x 1080,ELITEBOOK 745 G6,Windows 11 Pro,512,SSD,Used,239.98
+85264986107,Dell,Intel Core i7,15.6,Silver,16.0,1000.0,AMD Radeon 4GB GPU,3.1,2 in 1 Laptop/Tablet,Medium,1920 x 1080,Dell,Windows 11 Pro,0,SSD,Used,799.95
+85264986113,Lenovo,Intel Core i7,13.0,Black,16.0,256.0,Intel UHD Graphics 620,1.8,Notebook/Laptop,Large,3000 x 2000,Lenovo ThinkPad X1 Tablet Gen 3,Windows 11 Pro,256,SSD,Good,349.99
+85264986120,HP,Intel Pentium,12.0,Black,4.0,128.0,Intel HD Graphics 615,1.2,Notebook/Laptop,Large,1920 x 1280,HP Pro X2 612 G2 Tablet,Windows 11 Pro,128,SSD,New,155.0
+85264986121,HP,Intel Core i5,14.0,Silver,32.0,500.0,Intel UHD Graphics 620,2.6,Notebook/Laptop,Medium,1920 x 1080,Hp Elitlebook G5,Windows 11 Pro,500,SSD,Very Good,289.99
+85264986123,Lenovo,Intel Celeron,11.6,Black,0.004,32.0,Intel HD Graphics 500,1.1,Notebook/Laptop,Small,1366 x 768,Lenovo 100e,Chrome OS,4,eMMC,Used,89.99
+85264986126,HP,Intel Core i7,15.6,Silver/Black,16.0,256.0,Intel HD Graphics 620,1.8,Notebook/Laptop,Medium,1920 x 1080,HP EliteBook 850,Windows 11 Pro,256,SSD,Good,199.99
+85264986128,Lenovo,Intel Core i5,14.0,Black,16.0,512.0,Intel UHD Graphics 620,1.6,Notebook/Laptop,Medium,1920 x 1080,T490,Windows 11 Pro,512,SSD,Used,220.0
+85264986201,Dell,Intel Core i5,12.5,Black,16.0,256.0,Intel HD Graphics,2.6,Notebook/Laptop,Small,1366 x 768,Dell Latitude 7280,Windows 11 Pro,256,SSD,Used,175.0
+85264986292,Fujitsu,Intel Core i5,12.5,Silver/Black,4.0,120.0,NVIDIA GeForce 320M,2.5,Notebook,Medium,1920 x 1080,i5 4200M,Windows 10,120,HDD,Used,99.0
+85264986300,Dell,Intel Core i5,15.6,Black,32.0,512.0,NVIDIA Quadro P2000,2.5,Notebook,Medium,1920 x 1080,Precision 7530,Windows 10,512,SSD,Used,399.99
+85264986323,Dell,Intel Core i7,14.0,Silver,16.0,512.0,Intel Iris Xe Graphics,2.8,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5420,Windows 10 Pro,512,SSD,Used,300.0
+85264986474,HP,Intel Celeron,11.6,Gray,4.0,16.0,Intel HD Graphics 400,2.16,Notebook/Laptop,Small,1280 x 800,Samsung Chromebook 4+,Chrome OS,16,SSD,Used,45.0
+85264986481,SGIN,Intel Celeron,15.6,Silver,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Small,1366 x 768,SGIN-M15,Windows 11 Home,128,SSD + HDD,New,149.0
+85264986496,Acer,Intel Celeron,14.0,Silver,4.0,128.0,Intel UHD Graphics 600,1.1,Notebook/Laptop,Medium,1920 x 1080,Acer Swift 1,Windows 11 Home,128,SSD,Used,89.99
+85264986504,HP,Intel Core i5,14.0,Silver,8.0,240.0,Intel HD Graphics 3000,2.5,Notebook/Laptop,Small,1366 x 768,HP EliteBook 8460P,Windows 11 Pro,240,SSD,Used,120.0
+85264986567,Dell,Intel Core i5,14.0,Black,32.0,1000.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude 5440,Windows 11 Pro,1000,SSD,Excellent,299.99
+85264986576,Lenovo,Intel Celeron,11.6,Black,0.004,32.0,Intel HD Graphics 500,1.1,Notebook/Laptop,Small,1366 x 768,Lenovo 100e,Chrome OS,4,eMMC,Used,89.99
+85264986579,Dell,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,Dell,Linux,16,SSD,Used,49.99
+85264986584,HP,AMD Ryzen 3,14.0,Silver,8.0,128.0,AMD Radeon Graphics,2.6,Notebook/Laptop,Small,1366 x 768,HP 14-fq0013dx,Windows 11 Home,128,SSD,New,193.0
+85264986596,Dell,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,2.16,Notebook/Laptop,Small,1366 x 768,Dell,Linux,16,SSD,Used,56.99
+85264986600,Microsoft,Intel Pentium,10.5,Silver,64.0,64.0,Intel UHD Graphics 615,1.1,Notebook/Laptop,Large,1920 x 1280,Microsoft Surface Go 3,Windows 11 Home,64,SSD,Used,124.0
+85264986601,Dell,Intel Core i5,14.0,Black,16.0,128.0,Intel HD Graphics 520,2.6,Notebook/Laptop,Small,1366 x 768,Dell Latitude 7480,Windows 10,128,SSD,Used,129.99
+85264986605,Dell,Intel Core i7,12.5,Black,8.0,256.0,Intel HD Graphics 520,2.6,Notebook/Laptop,Medium,1920 x 1080,Dell Latitude E7270,Windows 10 Pro,256,SSD,Used,129.95
+85264986609,LG,Intel Core i7,16.0,Gray,16.0,512.0,NVIDIA GeForce GTX 1650 Ti,2.0,Notebook/Laptop,Large,1920 x 1200,LG Ultra,Windows 11 Home,512,SSD,For parts or not working,275.0
+85264986610,Lenovo,Intel Core i7,14.0,Black,16.0,256.0,Intel HD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Lenovo T480,Windows 11,16,SSD,Used,225.0
+85264986611,HP,Intel Core i5,14.0,Silver,32.0,500.0,Intel UHD Graphics 620,2.6,Notebook/Laptop,Medium,1920 x 1080,Hp Elitlebook G5,Windows 11 Pro,500,SSD,Very Good,289.99
+85264986651,HP,AMD Ryzen 3,14.0,Silver,16.0,512.0,AMD Radeon Graphics,2.0,Notebook/Laptop,Medium,1920 x 1080,HP EliteBook 745 G5,Not Included,0,SSD,Used,129.99
+85264987093,Lenovo,Intel Core i5,15.0,Black,16.0,256.0,Intel HD Graphics 530,2.4,Netbook,Medium,1920 x 1080,Lenovo ThinkPad T460,Windows 11 Pro,256,SSD,Used,149.0
+85264987095,HP,Intel Celeron,11.6,Black,4.0,16.0,Intel HD Graphics,1.6,Chromebook,Small,1366 x 768,Samsung ChromeBook,Chrome OS,16,eMMC,Used,69.99
+85264987100,HP,AMD Ryzen 7,16.1,Black,16.0,512.0,NVIDIA GeForce RTX 4060,5.1,Notebook/Laptop,Medium,1920 x 1080,HP Omen,Windows 11 Home,0,SSD,Certified,949.47
+85264987101,Lenovo,Intel Core i7,14.0,Black,16.0,256.0,Intel UHD Graphics 620,1.9,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T490,Windows 11 Pro,256,NVMe,Good,229.99
+85264987105,Microsoft,Intel Pentium,10.5,Silver,64.0,64.0,Intel UHD Graphics 615,1.1,Notebook/Laptop,Large,1920 x 1280,Microsoft Surface Go 3,Windows 11 Home,64,SSD,Used,124.0
+85264987110,SGIN,Intel Celeron,15.6,Silver,4.0,128.0,Intel UHD Graphics 600,2.8,Notebook/Laptop,Small,1366 x 768,SGIN-M15,Windows 11 Home,128,SSD,New,636.0
+85264987119,Dell,Intel Core i5,14.0,Black,32.0,512.0,Intel UHD Graphics 620,1.7,Notebook/Laptop,Medium,1920 x 1080,14,Not Included,512,SSD,Used,399.0
+85264987121,Lenovo,Intel Core i5,15.6,Gray,16.0,512.0,NVIDIA GeForce RTX 2050,2.1,Notebook/Laptop,Medium,1920 x 1080,Lenovo LOQ 82XV000VUS,Windows 11 Home,512,SSD,New,649.49
+85264987123,Acer,Intel Celeron,11.6,Gray,4.0,32.0,Intel HD Graphics 400,2.48,Notebook/Laptop,Small,1366 x 768,C731T-C0X8,Chrome OS,32,eMMC,Used,41.0
+85264987125,Lenovo,Intel Core i3,15.6,Gray,8.0,256.0,Intel UHD Graphics,1.2,Notebook/Laptop,Medium,1920 x 1080,Lenovo IdeaPad 3 15IAU7,Windows 11 Home,8,SSD,Open box,203.05
+85264987126,HP,Intel Core i7,17.3,Silver,64.0,4000.0,Intel Iris Xe Graphics,1.7,Notebook/Laptop,Medium,1920 x 1080,HP 17-cn3097nr,Windows 11 Pro,1000,SSD + HDD,New,1280.0
+85264987127,ASUS,AMD Ryzen 7,16.0,Blue,16.0,1000.0,AMD Radeon Graphics,4.4,Notebook/Laptop,Large,1920 x 1200,ASUS VivoBook,Windows 11 Home,1000,SSD,New,609.0
+85264987136,Lenovo,AMD Ryzen 5,14.0,Black,16.0,256.0,AMD Radeon Graphics,2.3,Notebook/Laptop,Medium,1920 x 1080,Lenovo ThinkPad T14,Windows 10 Pro,256,SSD,New,499.99
+85264987139,Lenovo,Intel Core i5,15.6,Grey,20.0,1000.0,Intel Iris Xe Graphics,4.2,Notebook/Laptop,Medium,1920 x 1080,Lenovo Ideapad 3i,Windows 11 Home,1000,SSD,New,599.0
+85264987184,HP,Intel Core i5,15.6,Silver,8.0,256.0,Intel Iris Xe Graphics,2.4,Notebook/Laptop,Medium,1920 x 1080,15-dy2795wm,Windows 11 Home,256,SSD,New,389.95
